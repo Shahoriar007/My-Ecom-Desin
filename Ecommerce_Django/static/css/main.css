@@ -65,3 +65,8 @@ footer a {
     display: inline-block;
     padding-right: 10px;
 }
+
+img.row-image {
+    height: 100px;
+    margin: 10px;
+}
